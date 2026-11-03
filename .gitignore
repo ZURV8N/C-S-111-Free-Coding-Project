@@ -1,2 +1,33 @@
+# Project-specific local config
 hosts.json
 services.json
+
+# .NET build output
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+TestResults/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
