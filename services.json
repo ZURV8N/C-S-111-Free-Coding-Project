@@ -1,9 +1,1 @@
-[
-    {
-        "id": "40ca8b1e-a743-4f71-bd4c-438a323c60b6",
-        "name": "jellyfin_webpage",
-        "host": "jellyfin_vm_host",
-        "port": "8096",
-        "protocol": "TCP"
-    }
-]
+[]
