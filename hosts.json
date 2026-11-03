@@ -1,0 +1,12 @@
+[
+    {
+        "id": "22b6d748-f478-4264-9356-618ca22410cf",
+        "name": "pmox_host",
+        "ip_addr": "10.2.60.2"
+    },
+    {
+        "id": "80bb458c-7cb3-4c84-9c1d-9ea080b415da",
+        "name": "jellyfin_vm_host",
+        "ip_addr": "10.2.60.101"
+    }
+]
